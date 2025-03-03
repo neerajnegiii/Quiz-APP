@@ -20,7 +20,7 @@
 ## 🛠️ How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/neerajnegiii/Quiz-APP.git
    ```
 2. Navigate to the project folder:
    ```sh
